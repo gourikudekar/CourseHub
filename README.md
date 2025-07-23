@@ -1,4 +1,4 @@
-#  CourseHub – SQL-Based Learning Platform
+## CourseHub – SQL-Based Learning Platform
 
 **CourseHub** is a real-life inspired SQL project that simulates a professional learning management system. It manages trainers, courses, and learners, integrating key concepts of relational databases, analytics, and backend logic using MySQL. This project is ideal for portfolio building, academic submission, or demonstrating backend SQL skills in interviews.
 
