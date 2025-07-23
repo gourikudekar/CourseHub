@@ -2,7 +2,7 @@
 
 **CourseHub** is a real-life inspired SQL project that simulates a professional learning management system. It manages trainers, courses, and learners, integrating key concepts of relational databases, analytics, and backend logic using MySQL. This project is ideal for portfolio building, academic submission, or demonstrating backend SQL skills in interviews.
 
-## Database Schema
+ ## Database Schema
 - **trainer**  
   Stores trainer details with expertise, years of experience, and rating.
 - **course**  
@@ -64,5 +64,5 @@ Automated key actions like adding learners, enrolling in courses, rating updates
 ## Conclusion
 CourseHub is a comprehensive, real-world SQL project that encapsulates the full lifecycle of a learning management system. From data modeling and structured insertion to validation, reporting, and automation, it demonstrates practical applications of SQL in a clean and organized format. Whether you're a student exploring database concepts, a data analyst handling structured information, or a backend developer building robust systems — this project highlights essential SQL skills through a realistic and meaningful use case.
 
-## 📌 Author
+## Author
 Gouri Kudekar!!
